@@ -6,7 +6,7 @@ int main() {
 	int matriz[T][T], i, j, maior_valor;
 	
 	printf("Digite os valores da matriz: ");
-	maior_valor = matriz[0][0];
+	maior_valor = 0;
 	for (i = 0; i < T; i++) {
 		for (j = 0; j < T; j++) {
 			printf ("\nPosicao [%d][%d]: ", i, j);
