@@ -1,0 +1,10 @@
+D:\Felipe\FATEC\algoritmo-logica\lista01-50-csharp\exe13\exe13\bin\Debug\netcoreapp3.1\exe13.exe
+D:\Felipe\FATEC\algoritmo-logica\lista01-50-csharp\exe13\exe13\bin\Debug\netcoreapp3.1\exe13.deps.json
+D:\Felipe\FATEC\algoritmo-logica\lista01-50-csharp\exe13\exe13\bin\Debug\netcoreapp3.1\exe13.runtimeconfig.json
+D:\Felipe\FATEC\algoritmo-logica\lista01-50-csharp\exe13\exe13\bin\Debug\netcoreapp3.1\exe13.runtimeconfig.dev.json
+D:\Felipe\FATEC\algoritmo-logica\lista01-50-csharp\exe13\exe13\bin\Debug\netcoreapp3.1\exe13.dll
+D:\Felipe\FATEC\algoritmo-logica\lista01-50-csharp\exe13\exe13\bin\Debug\netcoreapp3.1\exe13.pdb
+D:\Felipe\FATEC\algoritmo-logica\lista01-50-csharp\exe13\exe13\obj\Debug\netcoreapp3.1\exe13.AssemblyInfoInputs.cache
+D:\Felipe\FATEC\algoritmo-logica\lista01-50-csharp\exe13\exe13\obj\Debug\netcoreapp3.1\exe13.AssemblyInfo.cs
+D:\Felipe\FATEC\algoritmo-logica\lista01-50-csharp\exe13\exe13\obj\Debug\netcoreapp3.1\exe13.dll
+D:\Felipe\FATEC\algoritmo-logica\lista01-50-csharp\exe13\exe13\obj\Debug\netcoreapp3.1\exe13.pdb

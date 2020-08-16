@@ -1,0 +1,18 @@
+package avaliacao1;
+
+import java.util.Scanner;
+
+public class Exercicio01 {
+	private static Scanner scanner = new Scanner(System.in);
+	
+	public static void main(String[] args) {
+		int numero = 0;
+		
+		System.out.println("Digite um número: ");
+		numero = scanner.nextInt();
+		
+		System.out.println("O sucessor e o antecessor de " + numero + " é " + numero++ + " e " + (numero - 2));
+
+	}
+
+}

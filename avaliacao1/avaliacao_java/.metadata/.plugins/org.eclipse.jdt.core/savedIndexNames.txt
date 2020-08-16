@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Felipe\FATEC\algoritmo_e_logica\avaliacao1\avaliacao_java\.metadata\.plugins\org.eclipse.jdt.core
+2893816685.index
+2103231971.index
